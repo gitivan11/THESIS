@@ -1,0 +1,171 @@
+\documentclass[12pt,a4paper]{article}
+
+% --------------------
+% Packages
+% --------------------
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+\usepackage[english]{babel}
+\usepackage{csquotes}
+
+\usepackage[
+    backend=biber,
+    style=authoryear,
+    sorting=nyt
+]{biblatex}
+
+\addbibresource{references.bib}
+
+\usepackage{geometry}
+\geometry{
+    margin=2.5cm
+}
+
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{hyperref}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=blue
+}
+
+% --------------------
+% Thesis information
+% --------------------
+\title{Your Thesis Title}
+\author{Your Name}
+\date{\today}
+
+% --------------------
+% Document
+% --------------------
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Write a short summary of your thesis here. Briefly describe the research question,
+methodology, data, and main contribution.
+\end{abstract}
+
+\tableofcontents
+\newpage
+
+% --------------------
+% Introduction
+% --------------------
+\section{Introduction}
+
+Introduce your topic, motivation, research question, and contribution.
+
+Example citation: digital platforms have reshaped market competition \parencite{smith2021}.
+
+Your research question could be written as:
+
+\begin{quote}
+How does X affect Y in the context of Z?
+\end{quote}
+
+% --------------------
+% Literature Review
+% --------------------
+\section{Literature Review}
+
+Discuss the main strands of literature relevant to your thesis.
+
+\subsection{First strand of literature}
+
+Summarize the first group of papers here. Compare their arguments, methods, and findings.
+
+\subsection{Second strand of literature}
+
+Summarize the second group of papers here.
+
+\subsection{Research gap}
+
+Explain what is missing in the existing literature and how your thesis addresses that gap.
+
+% --------------------
+% Theoretical Framework
+% --------------------
+\section{Theoretical Framework}
+
+Explain the concepts, theory, or mechanism behind your research question.
+
+% --------------------
+% Methodology
+% --------------------
+\section{Methodology}
+
+Describe your empirical strategy, qualitative method, model, or analytical approach.
+
+For example:
+
+\begin{equation}
+Y_i = \alpha + \beta X_i + \gamma Z_i + \varepsilon_i
+\end{equation}
+
+where \(Y_i\) is the outcome variable, \(X_i\) is the main explanatory variable,
+and \(Z_i\) represents control variables.
+
+% --------------------
+% Data
+% --------------------
+\section{Data}
+
+Describe your data sources, sample, variables, and limitations.
+
+Example table:
+
+\begin{table}[h]
+\centering
+\caption{Summary of Main Variables}
+\begin{tabular}{lll}
+\toprule
+Variable & Description & Source \\
+\midrule
+Outcome variable & Brief description & Data source \\
+Main explanatory variable & Brief description & Data source \\
+Control variable & Brief description & Data source \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% --------------------
+% Results
+% --------------------
+\section{Results}
+
+Present your main findings here.
+
+% --------------------
+% Discussion
+% --------------------
+\section{Discussion}
+
+Interpret your findings. Explain what they mean, how they relate to the literature,
+and whether they support your expectations.
+
+% --------------------
+% Conclusion
+% --------------------
+\section{Conclusion}
+
+Summarize the thesis, main findings, limitations, and possible directions for future research.
+
+% --------------------
+% Bibliography
+% --------------------
+\newpage
+\printbibliography
+
+\end{document}
