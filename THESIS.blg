@@ -1,0 +1,17 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'THESIS.blg'
+[394] biber-MSWIN64:342> INFO - === 
+[574] Biber.pm:421> INFO - Reading 'THESIS.bcf'
+[793] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
+[821] Biber.pm:4487> INFO - Processing section 0
+[858] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
+[984] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1009] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'[[1039] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1039] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1039] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1040] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[1041] bbl.pm:676> INFO - Writing 'THESIS.bbl' with encoding 'UTF-8'
+[1041] bbl.pm:779> INFO - Output to THESIS.bbl
+[1042] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\Ivan\AppData\Local\Temp\biber_tmp_KXUC\33e59b5ca9ec342068223d604c3f8d55_24128.utf8, line 14, warning: 32 characters of junk seen at toplevel
+[1042] Biber.pm:132> WARN - I didn't find a database entry for 'smith2021' (section 0)
+[1042] Biber.pm:134> INFO - WARNINGS: 2

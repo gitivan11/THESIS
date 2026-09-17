@@ -53,8 +53,19 @@
 \maketitle
 
 \begin{abstract}
-Write a short summary of your thesis here. Briefly describe the research question,
-methodology, data, and main contribution.
+\begin{itemize}
+\item Test for crowding out: estimate 
+\[
+\mathrm{Credit}_{ist}
+= \alpha_{it} + \gamma_{st} + \mu_{is}
++ \beta\left(
+\mathrm{PreOVDP}_{i}
+\times \mathrm{Eligible}_{s}
+\times \mathrm{Post}_{t}
+\right)
++ \varepsilon_{ist}.
+\]
+\end{itemize}
 \end{abstract}
 
 \tableofcontents
@@ -63,7 +74,7 @@ methodology, data, and main contribution.
 % --------------------
 % Introduction
 % --------------------
-\section{Introduction}
+\section{Sources}
 
 Introduce your topic, motivation, research question, and contribution.
 
@@ -145,12 +156,13 @@ Control variable & Brief description & Data source \\
 % --------------------
 \section{Results}
 
-Present your main findings here.
 
-% --------------------
+ --------------------
+
+
+ with $k_{\alpha}$ such that $\mathcal{P}_{H_0}(\hat{\theta} < k_{\alpha}) = \alpha$.
 % Discussion
-% --------------------
-\section{Discussion}
+% -------------------
 
 Interpret your findings. Explain what they mean, how they relate to the literature,
 and whether they support your expectations.

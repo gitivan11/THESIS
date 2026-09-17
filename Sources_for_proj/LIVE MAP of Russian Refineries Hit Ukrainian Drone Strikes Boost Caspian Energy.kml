@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LIVE MAP of Russian Refineries Hit: Ukrainian Drone Strikes Boost Caspian Energy </name>
+    <description><![CDATA[(From January 2024 to March 2025)<br>See attached article: https://www.caspianpolicy.org/research/security/live-map-of-russian-refineries-hit-ukrainian-drone-strikes-boost-caspian-energy<br><br><br>Key:<br>Red - FIRE<br>Orange - Damage but no fire reported<br>Yellow - unconfirmed damage/unconfirmed hit<br>Blue - no damage <br>Gray - not attacked <br>]]></description>
+    <Style id="icon-1565-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1565-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1565-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1565-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1565-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1565-757575-normal">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1565-757575-highlight">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1565-757575">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1565-757575-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1565-757575-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1565-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1565-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1565-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1565-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1565-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1565-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1565-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1565-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1565-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1565-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1565-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1565-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1565-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1565-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1565-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Other Russian Refineries </name>
+      <Placemark>
+        <name>Ukhta Refinery</name>
+        <description>no recorded attacks</description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            53.7234387,63.5754621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirishi Refinery</name>
+        <description>no recorded attacks </description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            32.0562228,59.4834554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mariisky Refinery</name>
+        <description>no recorded attacks </description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            47.7267366,56.9812321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antipinsky Refinery</name>
+        <description>no recorded attacks </description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            65.7462897,57.1006363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krasnoleninsky Refinery</name>
+        <description>no recorded attacks </description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            66.433483,61.7355084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Izhevsky Refinery</name>
+        <description>no attacks recorded</description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            53.1969991,56.7917655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angarsky Refinery</name>
+        <description>no attacks recorded</description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            103.9399133,52.5236947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Achinsky Refinery</name>
+        <description>no attacks recorded</description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            90.5359992,56.4527176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Omsky Refinery</name>
+        <description>no attacks recorded</description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            73.2301586,55.0615794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perm Refinery</name>
+        <description>no attacks recorded</description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            56.1384876,57.9225791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Komsomolsky Refinery</name>
+        <description>no attacks recorded</description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            137.06013,50.6259736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khabarov Refinery</name>
+        <description>no attacks recorded</description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            135.0520412,48.5010944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orsk Refinery</name>
+        <description>no attacks recorded </description>
+        <styleUrl>#icon-1565-757575</styleUrl>
+        <Point>
+          <coordinates>
+            58.513114,51.2507781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Russian Refineries Attacked </name>
+      <Placemark>
+        <name>Ryazan Oil Refinery (7)</name>
+        <description>Attack Jan 17, 2024 - FIRE | Mar 13, 2024 - FIRE | Apr 31/May 1, 2024 - FIRE | Jul 26/27, 2024 - damage unconfirmed | Jan 23/24, 2025 - FIRE | Jan 25/26, 2025 - FIRE | Feb 23/24, 2025 - FIRE</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            39.7435354,54.5760051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Novoshakhtinsk Refinery (5)</name>
+        <description>Attack Mar 13, 2024 - Operations Halted | Jun 5/6, 2024 - FIRE | Jul 4/5, 2024 - FIRE | Aug 21, 2024 - FIRE from downed missile debris | Dec 18/19, 2024 - FIRE</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            39.8618615,47.8332627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ilsky refinery (5)</name>
+        <description>Attack Feb 9, 2024 - FIRE | Apr 26/27, 2024 - FIRE | Jun 20/21, 2024 - Hit but damage unconfirmed | Feb 17, 2025 - hit but damage unconfirmed | Feb 27/28, 2025 - damage unconfirmed </description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            38.5318661,44.8181889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taneko Refinery (4)</name>
+        <description>Attack Jan 11, 2024 - FIRE | Apr 2, 2024 - FIRE | May 23, 2024 - evacuated but unclear if hit | Jan 11, 2025 - evacuated but conflicting reports on FIRE | </description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            51.9155446,55.5769112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Volgograd Refinery (4)</name>
+        <description>Attack Feb 3, 2024 - FIRE | May 10/11, 2024 - FIRE | Jan 30/21, 2025 - FIRE | Feb 2/3, 2025 - FIRE</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            44.6099575,48.490852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afipsky Refinery (4)</name>
+        <description>Attack Feb 9, 2024 - hit uncertain | Jun 19/20, 2024 - unconfirmed reports of a strike | Jun 20/21, 2024 - targeted but hit unconfirmed | Feb 10, 2025 - hit but damage unconfirmed </description>
+        <styleUrl>#icon-1565-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            38.8289527,44.8847389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tuapse Oil Refinery (4)</name>
+        <description>Attack Jan 24/25, 2024 - FIRE | May 16/17, 2024 - FIRE | Jul 22, 2024 - FIRE | Mar 14, 2025 - FIRE</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            39.091807,44.0967847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moscow/Kapotnya Refinery (3)</name>
+        <description>Attack Aug 31/Sep 1, 2024 - FIRE | Mar 10/11, 2025 - damage unconfirmed | Mar 16, 2025 - FIRE</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            37.8023163,55.6440404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slavyansk Refinery (3)</name>
+        <description>Attack Mar 16/17, 2024 - FIRE | Apr 26/27, 2024 - FIRE | May 18/19, 2024 - Damage reported</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            38.1293815,45.229235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuibyshev Refinery (2)</name>
+        <description>Attack Mar 16, 2024 - FIRE | Mar 22/23, 2024 - FIRE </description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            50.0682437,53.1009689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pervyy Zavod Refinery (2)</name>
+        <description>Attack Mar 15, 2024 - FIRE | May 9/10, 2024 - FIRE</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            35.963963,54.7115691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Syzran Refinery (2)</name>
+        <description>Attack Mar 16, 2024 - FIRE | Feb 18/19, 2025 - FIRE</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            48.4000891,53.0883986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saratov Refinery (2)</name>
+        <description>Attack Jan 13/14, 2024 - FIRE | Feb 10/11, 2025 - FIRE</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            45.9349163,51.4607462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atlas Refinery (2)</name>
+        <description>Attack Aug 3, 2024 - damage unconfirmed | Aug 27/28, 2024 - FIRE</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            40.3963413,48.2307609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norsi/ Nizhny Novgorod Refinery (2)</name>
+        <description>Attack Mar 12, 2024 - FIRE | Jan 28/29, 2025 - FIRE</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            44.1318035,56.1119191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stalnoy Kon Refinery (2)</name>
+        <description>Attack Feb 9, 2024 - Damage unconfirmed | Mar 10/11, 2025 - explosions reported but damage unconfirmed </description>
+        <styleUrl>#icon-1565-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            36.1317873,53.0417764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nevsky Mazut Refinery</name>
+        <description>Attack Jan 31, 2024 - FIRE</description>
+        <styleUrl>#icon-1565-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            30.3848381,59.9015727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Novokubyshev Refinery</name>
+        <description>Attack Mar 16, 2024 - Hit and Evacuated</description>
+        <styleUrl>#icon-1565-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            49.9242216,53.0951126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Neftekhim Salavat Refinery</name>
+        <description>Attack May 9, 2024 - Damage reported</description>
+        <styleUrl>#icon-1565-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            55.9041434,53.4012765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ufimsky Refinery</name>
+        <description>Attack Oct 31, 2024 - minimal damage </description>
+        <styleUrl>#icon-1565-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            56.091221,54.8403204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taif-Nk Refinery</name>
+        <description>Attack May 23, 2024 - evacuated but unclear if hit</description>
+        <styleUrl>#icon-1565-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            51.9307136,55.6191819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krasnodar Refinery</name>
+        <description>Attack Jun 20/21, 2024 - targeted but unconfirmed if hit</description>
+        <styleUrl>#icon-1565-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            38.9644781,45.0004376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Astrakhan Refinery</name>
+        <description>Attack Jun 20/21, 2024 - targeted but unconfirmed if hit</description>
+        <styleUrl>#icon-1565-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            48.1108807,46.7741763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slavneft Yaroslavl Refinery</name>
+        <description>Attack Jan 29, 2024 - No damage</description>
+        <styleUrl>#icon-1565-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            39.8093892,57.554579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
