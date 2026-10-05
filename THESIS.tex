@@ -53,19 +53,10 @@
 \maketitle
 
 \begin{abstract}
-\begin{itemize}
-\item Test for crowding out: estimate 
-\[
-\mathrm{Credit}_{ist}
-= \alpha_{it} + \gamma_{st} + \mu_{is}
-+ \beta\left(
-\mathrm{PreOVDP}_{i}
-\times \mathrm{Eligible}_{s}
-\times \mathrm{Post}_{t}
-\right)
-+ \varepsilon_{ist}.
-\]
-\end{itemize}
+
+
+Estimate
+
 \end{abstract}
 
 \tableofcontents
@@ -74,24 +65,16 @@
 % --------------------
 % Introduction
 % --------------------
-\section{Sources}
+\section{Idea}
 
-Introduce your topic, motivation, research question, and contribution.
 
-Example citation: digital platforms have reshaped market competition \parencite{smith2021}.
 
-Your research question could be written as:
-
-\begin{quote}
-How does X affect Y in the context of Z?
-\end{quote}
 
 % --------------------
 % Literature Review
 % --------------------
 \section{Literature Review}
 
-Discuss the main strands of literature relevant to your thesis.
 
 \subsection{First strand of literature}
 
@@ -103,79 +86,49 @@ Summarize the second group of papers here.
 
 \subsection{Research gap}
 
-Explain what is missing in the existing literature and how your thesis addresses that gap.
-
+No research 
 % --------------------
 % Theoretical Framework
 % --------------------
 \section{Theoretical Framework}
 
-Explain the concepts, theory, or mechanism behind your research question.
+Ideas: 
 
-% --------------------
-% Methodology
-% --------------------
-\section{Methodology}
+\begin{itemize}
+\item Triple differences: 
+\[
+DDD
+=
+\left[
+\Delta P_{\text{prime}}
+-
+\Delta P_{\text{ordinary}}
+\right]_{\text{HNWI cities}}
+-
+\left[
+\Delta P_{\text{prime}}
+-
+\Delta P_{\text{ordinary}}
+\right]_{\text{other cities}}.
+\]
+\end{itemize}
 
-Describe your empirical strategy, qualitative method, model, or analytical approach.
-
-For example:
-
-\begin{equation}
-Y_i = \alpha + \beta X_i + \gamma Z_i + \varepsilon_i
-\end{equation}
-
-where \(Y_i\) is the outcome variable, \(X_i\) is the main explanatory variable,
-and \(Z_i\) represents control variables.
-
-% --------------------
-% Data
-% --------------------
+-------------
 \section{Data}
 
-Describe your data sources, sample, variables, and limitations.
-
-Example table:
-
-\begin{table}[h]
-\centering
-\caption{Summary of Main Variables}
-\begin{tabular}{lll}
-\toprule
-Variable & Description & Source \\
-\midrule
-Outcome variable & Brief description & Data source \\
-Main explanatory variable & Brief description & Data source \\
-Control variable & Brief description & Data source \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-% --------------------
-% Results
-% --------------------
-\section{Results}
+\cite{accetturo2014don} refer to Italian Land Registry data. LRO divides the data into "microzones" that are homogeneous in socioeconomic features. Housing prices in district are computed as average of microzones, weighhted by population. 
 
 
- --------------------
 
 
- with $k_{\alpha}$ such that $\mathcal{P}_{H_0}(\hat{\theta} < k_{\alpha}) = \alpha$.
-% Discussion
-% -------------------
 
-Interpret your findings. Explain what they mean, how they relate to the literature,
-and whether they support your expectations.
 
-% --------------------
-% Conclusion
-% --------------------
-\section{Conclusion}
 
-Summarize the thesis, main findings, limitations, and possible directions for future research.
 
-% --------------------
-% Bibliography
+
+
+
+
 % --------------------
 \newpage
 \printbibliography

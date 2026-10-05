@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.29)  1 SEP 2026 13:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.29)  5 OCT 2026 20:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -682,66 +682,47 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 54.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 57.
- (c:/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 58.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 58.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 58.
  (./THESIS.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 4.
 )
 \tf@toc=\write5
 \openout5 = `THESIS.toc'.
 
  [1
 
-{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-
-LaTeX Warning: Citation 'smith2021' on page 2 undefined on input line 81.
-
-[2] [3]
-
-LaTeX Warning: Empty bibliography on input line 181.
-
-(./THESIS.aux)
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 98.
+ (c:/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [2{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [3] (./THESIS.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `THESIS.out' has not changed.
-(rerunfilecheck)             Checksum: 8437F75F28BA43F564173FE30C580DDE;1210.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                THESIS
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 189B6DAE81BF2A7DE35443705A5588BB;925.
 Package logreq Info: Writing requests to 'THESIS.run.xml'.
 \openout1 = `THESIS.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19158 strings out of 467533
- 333241 string characters out of 5423668
- 1190895 words of memory out of 5000000
- 47826 multiletter control sequences out of 15000+600000
- 681599 words of font info for 74 fonts, out of 8000000 for 9000
+ 19178 strings out of 467533
+ 333766 string characters out of 5423668
+ 1188953 words of memory out of 5000000
+ 47846 multiletter control sequences out of 15000+600000
+ 688246 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,8n,67p,748b,1839s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on THESIS.pdf (3 pages, 177593 bytes).
+ 63i,6n,67p,748b,1847s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on THESIS.pdf (3 pages, 182533 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
